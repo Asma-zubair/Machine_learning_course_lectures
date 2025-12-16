@@ -32,7 +32,7 @@ Machine-Learning-Course/
 
 
 ---
-
+---
 ## 🧠 Course Content
 
 This repository covers a complete Machine Learning journey, starting from fundamentals and gradually moving toward advanced concepts.
@@ -63,13 +63,6 @@ To open in Colab:
 
 Each folder contains its **own README.md** with lecture recordings.
 
-### 📌 Example (Inside `02_Linear_Regression/README.md`)
-
-```md
-# Linear Regression
-
-## 📺 Lecture Recordings
-## 📓 Notebooks
 
 ````
 
