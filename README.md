@@ -28,10 +28,9 @@ Machine-Learning-Course/
 │   └── README.md
 │
 └── README.md   ← (Main README)
-
-
-
 ---
+
+
 ---
 ## 🧠 Course Content
 
