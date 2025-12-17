@@ -4,6 +4,14 @@ This lecture covers **Multiple Linear Regression**, an extension of simple linea
 
 ---
 
+
+## 🎥 Lecture Recording
+👉 [Click here to watch the lecture](https://drive.google.com/file/d/1c5wrmTBe0gFuaqR6RsJo2iT1vgX5JJw4/view?usp=sharing)
+
+
+---
+
+
 ## 📌 What You Will Learn
 
 - Difference between simple and multiple linear regression
@@ -43,5 +51,3 @@ Each feature contributes to the final prediction.
 
 ---
 
-## 🎥 Lecture Recording
-👉 [Click here to watch the lecture](https://drive.google.com/file/d/1c5wrmTBe0gFuaqR6RsJo2iT1vgX5JJw4/view?usp=sharing)

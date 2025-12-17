@@ -4,6 +4,13 @@ This lecture introduces **Simple Linear Regression**, one of the most fundamenta
 
 ---
 
+
+## 🎥 Lecture Recording
+👉 [Click here to watch the lecture](https://drive.google.com/file/d/1wszfWTxekkPVhe4ICwQ6UMVBzNvu5Viw/view?usp=sharing)
+
+---
+
+
 ## 📌 What You Will Learn
 
 - What is Simple Linear Regression
@@ -42,10 +49,7 @@ The goal is to find the best values of **w** and **b** that minimize prediction 
 - scikit-learn
 
 
----
 
-## 🎥 Lecture Recording
-👉 [Click here to watch the lecture](https://drive.google.com/file/d/1wszfWTxekkPVhe4ICwQ6UMVBzNvu5Viw/view?usp=sharing)
 
 
   
