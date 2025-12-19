@@ -11,6 +11,13 @@ This lecture introduces **Simple Linear Regression**, one of the most fundamenta
 ---
 
 
+## 📑 Slides
+👉 [Click here to view slides](https://point-made-engine.lovable.app)
+
+---
+
+
+
 ## 📌 What You Will Learn
 
 - What is Simple Linear Regression

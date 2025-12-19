@@ -12,6 +12,13 @@ This lecture covers **Multiple Linear Regression**, an extension of simple linea
 ---
 
 
+## 📑 Slides
+👉 [Click here to view slides](https://point-made-engine.lovable.app)
+
+---
+
+
+
 ## 📌 What You Will Learn
 
 - Difference between simple and multiple linear regression
