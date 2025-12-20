@@ -5,7 +5,7 @@ This lecture covers **Logistic Regression**, a supervised learning algorithm use
 ---
 
 ## 🎥 Lecture Recording
-👉 [Click here to watch the lecture](ADD_LECTURE_LINK_HERE)
+👉 [Click here to watch the lecture](https://drive.google.com/file/d/1PZzmQiyEvCjxSl1JrITLksa6GFIS2exP/view?usp=sharing)
 
 ---
 
